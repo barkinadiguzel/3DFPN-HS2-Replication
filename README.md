@@ -18,7 +18,7 @@ into a clean, extendable codebase.
 
 ## 🝆 Overview — 3D Multi-Scale Detection
 
-![3DFPN Overview](figmix.jpg)
+![3DFPN Overview](images/figmix.jpg)
 
 > Pulmonary nodules vary widely in **size, density, and shape**, requiring multi-scale volumetric reasoning.  
 
